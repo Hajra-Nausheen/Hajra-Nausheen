@@ -1,18 +1,17 @@
-## Hi there 👋
+Hi I’m Hajra 🌸
 
-<!--
-**Hajra-Nausheen/Hajra-Nausheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Applications graduate.  
+I am a Python developer with hands-on experience in Machine Learning and Data Analytics, focused on building practical, real-world solutions.
 
-Here are some ideas to get you started:
+🔹 Skilled in Python, SQL, Machine Learning, and Data Analysis  
+🔹 Experience with Power BI dashboards and data visualization  
+🔹 Strong interest in predictive modeling and AI-based applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:
+- Heart Disease Detection using Machine Learning  
+- Customer Churn Prediction System  
+- Zepto Inventory Analysis
+
+I am actively seeking entry-level opportunities where I can apply my skills, learn from industry experts, and contribute to impactful projects.
 
 ![Hajra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajra-nausheen&show_icons=true&theme=radical)
