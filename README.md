@@ -74,9 +74,9 @@ I'm actively seeking entry-level opportunities as a **Data Analyst** where I can
 
 ## 📫 Connect with Me
 
-- LinkedIn:  *🔗 LinkedIn: [Hajra Nausheen](https://www.linkedin.com/in/hajra-nausheen-3b92172ba*)
+🔗 LinkedIn: [Hajra Nausheen](https://www.linkedin.com/in/hajra-nausheen-3b92172ba*)
 
 ---
 
 ## 📈 GitHub Stats
-![Hajra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajra-nausheen&show_icons=true&theme=radical)
+![Hajra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajra-Nausheen&show_icons=true&count_private=true&theme=github_dark)
