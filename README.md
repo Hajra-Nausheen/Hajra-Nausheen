@@ -74,7 +74,7 @@ I'm actively seeking entry-level opportunities as a **Data Analyst** where I can
 
 ## 📫 Connect with Me
 
-- LinkedIn:  *linkedin.com/in/hajra-nausheen-3b92172ba*
+- LinkedIn:  *🔗 LinkedIn: [Hajra Nausheen](https://www.linkedin.com/in/hajra-nausheen-3b92172ba*)
 
 ---
 
